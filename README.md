@@ -11,6 +11,7 @@ First experience: **Held Money**.
 
 </div>
 
+![Sunita reviewing a ₹2,100 payment request from Rohan's AI agent](docs/screenshots/request.png)
 
 ---
 
